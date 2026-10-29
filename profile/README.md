@@ -23,8 +23,6 @@ The free web version of Claude stops you mid-conversation: a handful of messages
 | :---: | :---: | :---: |
 | *Claude chat answers* | *Claude builds an app* | *Claude creates files* |
 
-<p align="center"><sub>Real Claude artwork and app screens from claude.com and the official Claude app.</sub></p>
-
 ## Why a launcher instead of the website
 
 - **No message limits** — the "come back later" screen is gone for good
@@ -32,13 +30,10 @@ The free web version of Claude stops you mid-conversation: a handful of messages
 - **Full 200K context** — drop in entire books, contracts or code repositories
 - **Your chats stay local** — history is stored on your machine, not tied to a web account
 
-
 ## What Claude does best
 
 | Strength | In practice |
 | --- | --- |
-
-| :---: | :---: |
 
 ## Free web chat vs this launcher
 
