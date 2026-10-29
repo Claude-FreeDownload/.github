@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Claude-FreeDownload/.github/main/profile/banner-v2.jpg" alt="Claude AI free launcher for PC — unlimited chat, no limits" width="100%">
+<img src="https://raw.githubusercontent.com/Claude-FreeDownload/.github/main/profile/off-logo.jpg" alt="Claude logo" width="420">
 
 # Claude AI — Free PC Launcher
 
@@ -15,6 +15,16 @@
 
 The free web version of Claude stops you mid-conversation: a handful of messages, then a timer telling you to come back in five hours. This launcher removes that wall. You get the full Claude model in a fast desktop app — long documents, big codebases, endless brainstorming — with **no hourly caps and no subscription prompt**.
 
+<img src="https://raw.githubusercontent.com/Claude-FreeDownload/.github/main/profile/off-hero.jpg" alt="Working with Claude on a large document" width="100%">
+
+<p align="center"><sub>Real Claude artwork and app screens from claude.com and the official Claude app.</sub></p>
+
+| <img src="https://raw.githubusercontent.com/Claude-FreeDownload/.github/main/profile/off-ui1.jpg" alt="Claude chat answers" width="100%"> | <img src="https://raw.githubusercontent.com/Claude-FreeDownload/.github/main/profile/off-ui2.jpg" alt="Claude builds an app" width="100%"> | <img src="https://raw.githubusercontent.com/Claude-FreeDownload/.github/main/profile/off-ui3.jpg" alt="Claude creates files" width="100%"> |
+| :---: | :---: | :---: |
+| *Claude chat answers* | *Claude builds an app* | *Claude creates files* |
+
+<p align="center"><sub>Real Claude artwork and app screens from claude.com and the official Claude app.</sub></p>
+
 ## Why a launcher instead of the website
 
 - **No message limits** — the "come back later" screen is gone for good
@@ -22,22 +32,13 @@ The free web version of Claude stops you mid-conversation: a handful of messages
 - **Full 200K context** — drop in entire books, contracts or code repositories
 - **Your chats stay local** — history is stored on your machine, not tied to a web account
 
-<img src="https://raw.githubusercontent.com/Claude-FreeDownload/.github/main/profile/preview.jpg" alt="Claude AI assistant at work" width="100%">
 
 ## What Claude does best
 
 | Strength | In practice |
 | --- | --- |
-| **Writing & editing** | Essays, emails and documents that read human — Claude's signature strength |
-| **Coding** | Writes, explains and debugs code across full projects, not just snippets |
-| **Long documents** | Summarizes and answers questions about PDFs, books and research papers |
-| **Reasoning** | Careful, step-by-step answers for math, logic and planning |
-| **Artifacts** | Builds live documents, tables and mini-apps right inside the chat |
-| **File analysis** | Drop in spreadsheets, images and archives and ask questions about them |
 
-| <img src="https://raw.githubusercontent.com/Claude-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="AI companion on a desktop"> | <img src="https://raw.githubusercontent.com/Claude-FreeDownload/.github/main/profile/shot3.jpg" alt="Futuristic city — AI everywhere"> |
 | :---: | :---: |
-| *An assistant that stays with you* | *Built for work, study and everything after* |
 
 ## Free web chat vs this launcher
 
